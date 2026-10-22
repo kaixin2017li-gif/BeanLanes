@@ -1,0 +1,18 @@
+# BeatLanes dependencies
+#
+# To play the game only pygame is needed. Everything else on this list is used
+# by the build tools in tools/ (the song generator and the log analysis) and by
+# the test run, not by the game itself.
+#
+#   pip install -r requirements.txt
+
+pygame>=2.6.0      # window, keyboard, audio and the millisecond clock
+
+# --- build tools only -------------------------------------------------------
+numpy>=1.26        # sample maths in tools/make_song.py
+soundfile>=0.12    # writing the generated track to OGG
+matplotlib>=3.8    # the optional error histogram in tools/analyse_log.py
+
+# libsndfile (inside soundfile) usually encodes Vorbis itself. If it does not,
+# tools/make_song.py falls back to ffmpeg, which is not a Python package:
+#   macOS:  brew install ffmpeg

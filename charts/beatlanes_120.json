@@ -1,0 +1,202 @@
+{
+  "title": "BeatLanes 120 (generated from the beat plan)",
+  "bpm": 120.0,
+  "bars": 16,
+  "intro_bars": 4,
+  "note_count": 48,
+  "generated_by": "tools/make_chart.py",
+  "notes": [
+    {
+      "time": 8000,
+      "lane": 0
+    },
+    {
+      "time": 8500,
+      "lane": 1
+    },
+    {
+      "time": 9000,
+      "lane": 2
+    },
+    {
+      "time": 9500,
+      "lane": 3
+    },
+    {
+      "time": 10000,
+      "lane": 3
+    },
+    {
+      "time": 10500,
+      "lane": 2
+    },
+    {
+      "time": 11000,
+      "lane": 1
+    },
+    {
+      "time": 11500,
+      "lane": 0
+    },
+    {
+      "time": 12000,
+      "lane": 0
+    },
+    {
+      "time": 12500,
+      "lane": 2
+    },
+    {
+      "time": 13000,
+      "lane": 1
+    },
+    {
+      "time": 13500,
+      "lane": 3
+    },
+    {
+      "time": 14000,
+      "lane": 1
+    },
+    {
+      "time": 14500,
+      "lane": 3
+    },
+    {
+      "time": 15000,
+      "lane": 0
+    },
+    {
+      "time": 15500,
+      "lane": 2
+    },
+    {
+      "time": 16000,
+      "lane": 0
+    },
+    {
+      "time": 16500,
+      "lane": 1
+    },
+    {
+      "time": 17000,
+      "lane": 0
+    },
+    {
+      "time": 17500,
+      "lane": 3
+    },
+    {
+      "time": 18000,
+      "lane": 2
+    },
+    {
+      "time": 18500,
+      "lane": 3
+    },
+    {
+      "time": 19000,
+      "lane": 2
+    },
+    {
+      "time": 19500,
+      "lane": 1
+    },
+    {
+      "time": 20000,
+      "lane": 0
+    },
+    {
+      "time": 20500,
+      "lane": 1
+    },
+    {
+      "time": 21000,
+      "lane": 2
+    },
+    {
+      "time": 21500,
+      "lane": 3
+    },
+    {
+      "time": 22000,
+      "lane": 3
+    },
+    {
+      "time": 22500,
+      "lane": 2
+    },
+    {
+      "time": 23000,
+      "lane": 1
+    },
+    {
+      "time": 23500,
+      "lane": 0
+    },
+    {
+      "time": 24000,
+      "lane": 0
+    },
+    {
+      "time": 24500,
+      "lane": 2
+    },
+    {
+      "time": 25000,
+      "lane": 1
+    },
+    {
+      "time": 25500,
+      "lane": 3
+    },
+    {
+      "time": 26000,
+      "lane": 1
+    },
+    {
+      "time": 26500,
+      "lane": 3
+    },
+    {
+      "time": 27000,
+      "lane": 0
+    },
+    {
+      "time": 27500,
+      "lane": 2
+    },
+    {
+      "time": 28000,
+      "lane": 0
+    },
+    {
+      "time": 28500,
+      "lane": 1
+    },
+    {
+      "time": 29000,
+      "lane": 0
+    },
+    {
+      "time": 29500,
+      "lane": 3
+    },
+    {
+      "time": 30000,
+      "lane": 2
+    },
+    {
+      "time": 30500,
+      "lane": 3
+    },
+    {
+      "time": 31000,
+      "lane": 2
+    },
+    {
+      "time": 31500,
+      "lane": 1
+    }
+  ]
+}
